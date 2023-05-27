@@ -31,7 +31,7 @@ Pronto! As sub-redes estão definidos, caso queiramos que elas se comuniquem pre
 
 Utilizando o roteador, o esquema no Cisco Packet Tracer fica da seguinte forma:
 
-![top_1](top.png)
+![one](one.png)
 
 O IP definido na porta GigabitEthernet0/0 foi o 192.168.0.62 e na porta GigabitEthernet0/1 foi o 192.168.0.190. Definindo esses IPs como Gateway nos dispositivos em suas respectivas sub-redes, basta fazer um teste de ping entre os computaodores. O esquema final ficou da seguinte forma:
 
